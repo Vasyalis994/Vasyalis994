@@ -8,6 +8,13 @@ Python developer
 - Discord, Telegram
 - SQLite
 
+## My Soft Skills:
+- Good at working in a team
+- I learn quikcly
+- I communicate well with different people
+- I keep track of deadlines well
+- I'm adaptive and organized
+
 ## My projects:
 - [AI that identifies animals in photos](https://github.com/Vasyalis994/First)
 - [Flask-Blog](https://github.com/Vasyalis994/Flask-Blog)
