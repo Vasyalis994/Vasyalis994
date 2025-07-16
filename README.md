@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there I'm Vasilisa 👋
+Python developer
 
-<!--
+## My Hard Skills:
+- Python
+- Flask
+- PyGame
+- Discord, Telegram
+- SQLite
+
+## My projects:
+- [AI that identifies animals in photos](https://github.com/Vasyalis994/First)
+- [Flask-Blog](https://github.com/Vasyalis994/Flask-Blog)
+- [Discord bot Flag Game](https://github.com/Vasyalis994/Platform-Game)
+
+  Contacts: ...
 **Vasyalis994/Vasyalis994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
