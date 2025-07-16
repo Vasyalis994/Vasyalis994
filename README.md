@@ -5,7 +5,7 @@ Python developer
 - Python
 - Flask
 - PyGame
-- Discord, Telegram
+- Discord.py
 - SQLite
 
 ## My Soft Skills:
